@@ -157,7 +157,7 @@ export default function BirthdayLockScreen({
 
                     <p className="mt-3 max-w-[320px] text-[0.85rem] leading-6 text-[#e7d8df]/80 sm:mt-4 sm:text-[0.92rem]">
                       Only someone who knows me well could open this.
-                      Enter the date that started it all.
+                      Enter my Birthdate and month in numerical value. DD/MM
                     </p>
 
                     <form
